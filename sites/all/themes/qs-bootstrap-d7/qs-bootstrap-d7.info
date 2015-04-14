@@ -1,5 +1,5 @@
 name = Quickstart Bootstrap 3 in Drupal 7 Theme
-description = A custom theme built on the Foundation 5.4.7 framework
+description = A custom theme built on the Boostrap 3 design framework.
 core = 7.x
 engine = phptemplate
 
